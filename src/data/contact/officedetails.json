@@ -1,0 +1,22 @@
+
+[
+    {
+      "name": "phone",
+      "link": "https://twitter.com/EternalRecycli1",
+      "image": "/images/social/instagram (2).png",
+      "description": "91 123456789"
+    },
+    {
+      "name": "email",
+      "link": "https://twitter.com/EternalRecycli1",
+      "image": "../images/footericons/email.svg",
+      "description": "enternalrecycling@gmail.com"
+
+    },
+    {
+      "name": "location",
+      "link": "https://twitter.com/EternalRecycli1",
+      "image": "../images/footericons/location.svg",
+      "description": "Maheshwari Chambers, Raj Bhavan Quarters Colony, SomajigudaHyderabad, Telangana 500041, India"
+    }
+  ]

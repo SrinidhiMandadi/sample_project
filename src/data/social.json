@@ -1,0 +1,20 @@
+[
+  
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/EternalRecycli1",
+        "image": "/images/social/twitter.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/eternal_recycling/",
+        "image": "/images/social/instagram.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://www.facebook.com/Eternal-Recycling-112227747355548",
+        "image": "/images/social/facebook.svg"
+    }
+
+
+]

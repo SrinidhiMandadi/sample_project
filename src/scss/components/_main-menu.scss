@@ -1,0 +1,38 @@
+.main-menu {
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
+  > ul {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    > li {
+      list-style: none;
+      font-size: 1.5rem;
+      > a {
+        padding: 10px 12px 10px 12px;
+        display: inline-block;
+        font-weight: normal;
+        text-decoration: none;
+        color: rgb(79, 79, 88);
+        &:hover {
+          // text-decoration: underline;
+          color: rgb(97, 177, 32);
+
+        }
+        &.active {
+          // font-weight: bold;
+          border-bottom: 3px solid rgb(97, 177, 32);
+          text-decoration: none;
+          color: black;
+
+          &:hover {
+            text-decoration: none;
+            transition: all 225ms ease-in 0s;
+          }
+        }
+      }
+    }
+  }
+}
