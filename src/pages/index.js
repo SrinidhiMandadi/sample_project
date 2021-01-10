@@ -93,19 +93,19 @@ const Home = props => {
                            <div class="expert-links" styles="display: none;" >
 
                       <div class="expert-link-items">
-                          <a href="https://twitter.com/EternalRecycli1" target="_blank">
+                          <a href="https://twitter.com/" target="_blank">
                             <img src={twitter} alt="ex1" height="30px" width="30px"  align-items="center"/>
                            </a> 
                       </div>
                             
                       <div class="expert-link-items">
-                          <a href="https://www.instagram.com/eternal_recycling/" target="_blank">
+                          <a href="https://www.instagram.com/" target="_blank">
                             <img src={instagram} alt="ex1" height="30px" width="30px"  align-items="center"/>
                             </a>
                       </div>
 
                       <div class="expert-link-items">
-                          <a href="https://www.facebook.com/Eternal-Recycling-112227747355548" target="_blank">
+                          <a href="https://www.facebook.com/" target="_blank">
                             <img src={facebook} alt="ex1" height="30px" width="30px"  align-items="center"/>                                </a>
                       </div>
 
@@ -130,19 +130,19 @@ const Home = props => {
                         <div class="expert-links" >
                            
                         <div class="expert-link-items">
-                          <a href="https://twitter.com/EternalRecycli1" target="_blank">
+                          <a href="https://twitter.com/" target="_blank">
                             <img src={twitter} alt="ex1" height="30px" width="30px"  align-items="center"/>
                            </a> 
                       </div>
                             
                       <div class="expert-link-items">
-                          <a href="https://www.instagram.com/eternal_recycling/" target="_blank">
+                          <a href="https://www.instagram.com/" target="_blank">
                             <img src={instagram} alt="ex1" height="30px" width="30px"  align-items="center"/>
                             </a>
                       </div>
 
                       <div class="expert-link-items">
-                          <a href="https://www.facebook.com/Eternal-Recycling-112227747355548" target="_blank">
+                          <a href="https://www.facebook.com/" target="_blank">
                             <img src={facebook} alt="ex1" height="30px" width="30px"  align-items="center"/>                                </a>
                       </div>
 
@@ -167,19 +167,19 @@ const Home = props => {
                               <div class="expert-links" styles="display: none;">
 
                             <div class="expert-link-items">
-                          <a href="https://twitter.com/EternalRecycli1" target="_blank">
+                          <a href="https://twitter.com/?lang=en" target="_blank">
                             <img src={twitter} alt="ex1" height="30px" width="30px"  align-items="center"/>
                            </a> 
                       </div>
                             
                       <div class="expert-link-items">
-                          <a href="https://www.instagram.com/eternal_recycling/" target="_blank">
+                          <a href="https://www.instagram.com/" target="_blank">
                             <img src={instagram} alt="ex1" height="30px" width="30px"  align-items="center"/>
                             </a>
                       </div>
 
                       <div class="expert-link-items">
-                          <a href="https://www.facebook.com/Eternal-Recycling-112227747355548" target="_blank">
+                          <a href="https://www.facebook.com/" target="_blank">
                             <img src={facebook} alt="ex1" height="30px" width="30px"  align-items="center"/>                                </a>
                       </div>
 
@@ -232,13 +232,13 @@ const Home = props => {
 
                 <div className="newsletter-container1">
                      <img src={phone} alt="icon2" height="60px" width="60px"  align-items="center"/>
-                    <h6>+91 79936 48675</h6>
+                    <h6>+91 98765432</h6>
                 </div>
  
             <div className="newsletter-container1">
                   <img src={email} alt="icon2" height="60px" width="60px"  align-items="center" />
                   {/* <a href="mailto:eternalrecycling@gmail.com" >eternalrecycling@gmail.com</a> */}
-                  <h6>eternalrecycling@gmail.com</h6>
+                  <h6>erecycling@gmail.com</h6>
             </div>
 
         <div className="newsletter-container1">

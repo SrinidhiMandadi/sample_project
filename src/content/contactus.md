@@ -8,7 +8,7 @@ title: 'Our'
                 <p>Civil Lines, New Delhi</p>
                 <p>New Delhi - 110054</p>
                 <br />
-                <a href="mailto:eternalrecycling@gmail.com">eternalrecycling@gmail.com</a>
+                <a href="mailto:erecycling@gmail.com">eternalrecycling@gmail.com</a>
                 <br />
-                <p>+91 40 4003 7102 (Landline)</p>
-                <p>+91 79936 48675 (Mobile)</p>
+                <p>+91  404987456 (Landline)</p>
+                <p>+91 98765432 (Mobile)</p>
